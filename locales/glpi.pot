@@ -3,13 +3,12 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#: templates/webapplication_stream_form.html.twig:22 templates/webapplication_stream_form.html.twig:36
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-09 12:30+0000\n"
+"POT-Creation-Date: 2024-06-04 17:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,15 +57,14 @@ msgstr[1] ""
 #: hook.php:400 hook.php:473 inc/dashboard.class.php:349
 #: inc/dashboarddatabase.class.php:268 inc/dashboardprocess.class.php:287
 #: inc/process.class.php:140
-#: templates/webapplication_appliance_form.html.twig:105
-#: templates/webapplication_process_form.html.twig:27
 #: templates/webapplication_database_form.html.twig:32
+#: templates/webapplication_process_form.html.twig:27
+#: templates/webapplication_appliance_form.html.twig:105
 msgid "Availability"
 msgstr ""
 
 #: hook.php:296 inc/dashboard.class.php:401
-#: templates/webapplication_appliance_form.html.twig:32
-#: templates/webapplication_form.html.twig:32
+#: templates/webapplication_appliance_form.html.twig:32 templates/webapplication_form.html.twig:32
 msgid "Backoffice URL"
 msgstr ""
 
@@ -79,9 +77,9 @@ msgstr[1] ""
 #: hook.php:418 hook.php:489 inc/dashboard.class.php:368
 #: inc/dashboarddatabase.class.php:287 inc/dashboardprocess.class.php:306
 #: inc/process.class.php:154
-#: templates/webapplication_appliance_form.html.twig:137
-#: templates/webapplication_process_form.html.twig:60
 #: templates/webapplication_database_form.html.twig:62
+#: templates/webapplication_process_form.html.twig:60
+#: templates/webapplication_appliance_form.html.twig:137
 msgid "Confidentiality"
 msgstr ""
 
@@ -108,7 +106,8 @@ msgstr ""
 msgid "Data migration"
 msgstr ""
 
-#: inc/dashboardstream.class.php:220 templates/webapplication_stream_form.html.twig:27
+#: inc/dashboardstream.class.php:220
+#: templates/webapplication_stream_form.html.twig:27
 msgid "Destination"
 msgstr ""
 
@@ -121,11 +120,13 @@ msgstr ""
 msgid "Ecosystem"
 msgstr ""
 
-#: inc/dashboardstream.class.php:241 inc/stream.class.php:177 templates/webapplication_stream_form.html.twig:42
+#: inc/dashboardstream.class.php:241 inc/stream.class.php:177
+#: templates/webapplication_stream_form.html.twig:42
 msgid "Encryption"
 msgstr ""
 
-#: inc/dashboardstream.class.php:258 inc/stream.class.php:184 templates/webapplication_stream_form.html.twig:48
+#: inc/dashboardstream.class.php:258 inc/stream.class.php:184
+#: templates/webapplication_stream_form.html.twig:48
 msgid "Encryption type"
 msgstr ""
 
@@ -144,9 +145,9 @@ msgstr ""
 #: hook.php:409 hook.php:481 inc/dashboard.class.php:359
 #: inc/dashboarddatabase.class.php:278 inc/dashboardprocess.class.php:297
 #: inc/process.class.php:147
-#: templates/webapplication_appliance_form.html.twig:121
-#: templates/webapplication_process_form.html.twig:44
 #: templates/webapplication_database_form.html.twig:48
+#: templates/webapplication_process_form.html.twig:44
+#: templates/webapplication_appliance_form.html.twig:121
 msgid "Integrity"
 msgstr ""
 
@@ -277,13 +278,14 @@ msgstr ""
 msgid "Security Contact"
 msgstr ""
 
-#: templates/webapplication_appliance_form.html.twig:86
-#: templates/webapplication_process_form.html.twig:18
 #: templates/webapplication_database_form.html.twig:24
+#: templates/webapplication_process_form.html.twig:18
+#: templates/webapplication_appliance_form.html.twig:86
 msgid "Security Needs"
 msgstr ""
 
-#: inc/dashboardstream.class.php:203 templates/webapplication_stream_form.html.twig:13
+#: inc/dashboardstream.class.php:203
+#: templates/webapplication_stream_form.html.twig:13
 msgid "Source"
 msgstr ""
 
@@ -322,9 +324,9 @@ msgstr ""
 #: hook.php:427 hook.php:497 inc/dashboard.class.php:377
 #: inc/dashboarddatabase.class.php:297 inc/dashboardprocess.class.php:315
 #: inc/process.class.php:161
-#: templates/webapplication_appliance_form.html.twig:154
-#: templates/webapplication_process_form.html.twig:77
 #: templates/webapplication_database_form.html.twig:77
+#: templates/webapplication_process_form.html.twig:77
+#: templates/webapplication_appliance_form.html.twig:154
 msgid "Traceability"
 msgstr ""
 
@@ -334,8 +336,7 @@ msgid_plural "Types of treatment server"
 msgstr[0] ""
 msgstr[1] ""
 
-#: templates/webapplication_appliance_form.html.twig:23
-#: templates/webapplication_form.html.twig:23
+#: templates/webapplication_appliance_form.html.twig:23 templates/webapplication_form.html.twig:23
 msgid "URL"
 msgstr ""
 
